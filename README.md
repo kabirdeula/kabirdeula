@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kabir Deula
 #### Development
-I'm a Bachelor student
+I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
 
 Skills: JS / HTML / CSS
 
