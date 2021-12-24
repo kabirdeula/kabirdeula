@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kabir Deula
 
-##I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
+## I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
 
 
 
