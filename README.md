@@ -8,7 +8,9 @@
 
 ## Connect with me
 
-![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=brave)
+<img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=brave">
+
+![Website]()
 ![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)
 ![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)
 
