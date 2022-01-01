@@ -30,7 +30,7 @@
 <br/>
 
 ---
-|---|---|
+| --- | --- |
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&&theme=dark) |
 
