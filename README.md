@@ -2,20 +2,13 @@
 
 ## I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
 
-
-
 <img src="https://profile-counter.glitch.me/kabirdeula/count.svg">  
 
 ## Connect with me
 
-<img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=brave">
-
-![Website]()
-![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)
-![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)
-
-<br/>
-
+[<img src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=brave">][website]
+[<img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook">][facebook]
+[<img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram">][instagram]
 
 ## Tech Stack:
 
@@ -29,9 +22,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br/>
-<br/>
-
 ---
 
 
@@ -40,6 +30,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-[Website]: https://kabirdeula.com.np
-[Facebook]: http://facebook.com/kabirdeula167
-[Instagram]: https://instagram.com/king_dragon2021/
+[website]: https://kabirdeula.com.np
+[facebook]: http://facebook.com/kabirdeula167
+[instagram]: https://instagram.com/king_dragon2021/
