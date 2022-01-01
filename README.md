@@ -4,7 +4,7 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/kabirdeula)  
+<img src="https://profile-counter.glitch.me/kabirdeula/count.svg">  
 
 ## Connect with me
 [<img align="left" alt="kabirdeula.com.np" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
