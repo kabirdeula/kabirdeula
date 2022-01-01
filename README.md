@@ -9,9 +9,8 @@
 ## Connect with me
 
 ![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=brave)
-[<img align="left" alt="kabirdeula.com.np" width="40px" src="" />][website]
-[<img align="left" alt="Kabir Deula | Facebook" width="40px" src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" />][facebook]
-[<img align="left" alt="Kabir Deula | Instagram" width="40px" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />][instagram]
+![Facebook](https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook)
+![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram)
 
 <br/>
 
