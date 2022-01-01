@@ -7,9 +7,9 @@
 <img src="https://profile-counter.glitch.me/kabirdeula/count.svg">  
 
 ## Connect with me
-[<img align="left" alt="kabirdeula.com.np" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kabir Deula | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Kabir Deula | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kabirdeula.com.np" width="40px" src="img.shields.io/badge/-Website-05122A?style=flat&logo=brave" />][website]
+[<img align="left" alt="Kabir Deula | Facebook" width="40px" src="img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook" />][facebook]
+[<img align="left" alt="Kabir Deula | Instagram" width="40px" src="img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" />][instagram]
 
 <br/>
 
