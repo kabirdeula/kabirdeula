@@ -36,15 +36,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-| --- | --- |
-
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&&theme=dark) |
-
----
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=dark)  
-
-
 
 [website]: https://kabirdeula.com.np
 [facebook]: http://facebook.com/kabirdeula167
