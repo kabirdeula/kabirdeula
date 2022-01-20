@@ -2,6 +2,8 @@
 
 ## I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
 
+## View Count
+
 <img src="https://profile-counter.glitch.me/kabirdeula/count.svg">  
 
 ## Connect with me
@@ -27,7 +29,7 @@
 
 | ![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight) | ![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html&langs_count=10) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 [website]: https://kabirdeula.com.np
