@@ -4,7 +4,7 @@
 
 ## View Count
 
-<img src="https://profile-counter.glitch.me/kabirdeula/count.svg">  
+![Kabir's View Count](https://komarev.com/ghpvc/?username=kabirdeula&label=Views)
 
 ## Connect with me
 
