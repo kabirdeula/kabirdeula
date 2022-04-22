@@ -30,8 +30,9 @@
 
 | ![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight&count_private=true) | ![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html,shell,scss&langs_count=10&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html,shell,scss&langs_count=10&layout=compact) |![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
 
 [website]: https://kabirdeula.com.np
 [facebook]: http://facebook.com/kabirdeula167
