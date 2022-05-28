@@ -40,15 +40,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-00AB86?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=007ACC)
 ---
 
-
-| ![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight&count_private=true) | ![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html,shell,scss&langs_count=10&layout=compact) |![Github Stars](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
-
 <p align="right">
     <a href="https://app.daily.dev/kabirdeula">
         <img align="right" src="https://github.com/kabirdeula/kabirdeula/blob/main/devcard.svg" width="300" alt="Kabir Deula's Dev Card" />
     </a>
 </p>
+
+![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight&count_private=true)
+
+![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=html,shell,scss&langs_count=10&layout=compact) 
+
+![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
+
