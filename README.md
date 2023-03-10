@@ -27,17 +27,20 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4B00B2?style=for-the-badge&logo=bootstrap&logoColor=000&labelColor=7952B3)
 ![C](https://img.shields.io/badge/C-A9A7CC?style=for-the-badge&logo=C&logoColor=000&labelColor=A8B9CC)
 ![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=000&labelColor=1572B6)
-![Git](https://img.shields.io/badge/Git-F0AD32?style=for-the-badge&logo=git&logoColor=000&labelColor=F05032)
+![Dart](https://img.shields.io/badge/Dart-0115C2?style=for-the-badge&logo=dart&logoColor=000&labelColor=0175C2)
 
+![Flutter](https://img.shields.io/badge/Flutter-02099B?style=for-the-badge&logo=flutter&logoColor=000&labelColor=02569B)
+![Git](https://img.shields.io/badge/Git-F0AF32?style=for-the-badge&logo=git&logoColor=000&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-171616?style=for-the-badge&logo=github&logoColor=fff&labelColor=181717)
 ![HTML5](https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=000&labelColor=E34F26)
-![Java](https://img.shields.io/badge/Java-002896?style=for-the-badge&logo=Java&logoColor=000&labelColor=007396)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-434AA1?style=for-the-badge&logo=mysql&logoColor=000&labelColor=4479A1)
 
+![Laravel](https://img.shields.io/badge/Laravel-FF9D20?style=for-the-badge&logo=laravel&logoColor=000&labelColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-434AA1?style=for-the-badge&logo=mysql&logoColor=000&labelColor=4479A1)
 ![PHP](https://img.shields.io/badge/PHP-779AB5?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-373CAB?style=for-the-badge&logo=python&logoColor=000&labelColor=3776AB)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-00AB86?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=007ACC)
+![VisualStudioCode](https://img.shields.io/badge/VSCode-00AB86?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=007ACC)
+
 ---
 
 <p align="right">
