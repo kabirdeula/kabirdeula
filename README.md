@@ -8,14 +8,13 @@
 
 ## Connect with me
 
-
 [<img src="https://img.shields.io/badge/-Website-FABC2A?style=for-the-badge&logo=brave&logoColor=000&labelColor=FB542B">][website]
 [<img src="https://img.shields.io/badge/-Facebook-2718F2?style=for-the-badge&logo=facebook&logoColor=000&labelColor=1877F2">][facebook]
 [<img src="https://img.shields.io/badge/-Instagram-E37340?style=for-the-badge&logo=instagram&logoColor=000&labelColor=E4405F">][instagram]
 [<img src="https://img.shields.io/badge/-Snapchat-FF7B00?style=for-the-badge&logo=snapchat&logoColor=000&labelColor=FFFC00">][snapchat]
 [<img src="https://img.shields.io/badge/-LinkedIn-0A0AC2?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=0A66C2">][linkedin]
 
-[website]: https://www.kabirdeula.com.np 
+[website]: https://www.kabirdeula.info.np 
 [snapchat]: https://www.snapchat.com/add/king_dragon2018
 [facebook]: http://facebook.com/kabirdeula167
 [instagram]: https://instagram.com/king_dragon2021/
@@ -23,22 +22,12 @@
 
 ## Tech Stack:
 
-![Bash](https://img.shields.io/badge/Bash-26AB40?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=4EAA25)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4B00B2?style=for-the-badge&logo=bootstrap&logoColor=000&labelColor=7952B3)
-![C](https://img.shields.io/badge/C-A9A7CC?style=for-the-badge&logo=C&logoColor=000&labelColor=A8B9CC)
-![CSS3](https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=css3&logoColor=000&labelColor=1572B6)
-![Dart](https://img.shields.io/badge/Dart-0115C2?style=for-the-badge&logo=dart&logoColor=000&labelColor=0175C2)
-
+![Android](https://img.shields.io/badge/Android-26AB40?style=for-the-badge&logo=android&logoColor=000&labelColor=3DDC84)
 ![Flutter](https://img.shields.io/badge/Flutter-02099B?style=for-the-badge&logo=flutter&logoColor=000&labelColor=02569B)
 ![Git](https://img.shields.io/badge/Git-F0AF32?style=for-the-badge&logo=git&logoColor=000&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-171616?style=for-the-badge&logo=github&logoColor=fff&labelColor=181717)
-![HTML5](https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=000&labelColor=E34F26)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF9D20?style=for-the-badge&logo=laravel&logoColor=000&labelColor=FF2D20)
 ![MySQL](https://img.shields.io/badge/MySQL-434AA1?style=for-the-badge&logo=mysql&logoColor=000&labelColor=4479A1)
 ![PHP](https://img.shields.io/badge/PHP-779AB5?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4)
-![Python](https://img.shields.io/badge/Python-373CAB?style=for-the-badge&logo=python&logoColor=000&labelColor=3776AB)
 ![VisualStudioCode](https://img.shields.io/badge/VSCode-00AB86?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=007ACC)
 
 ---
@@ -57,3 +46,4 @@
 
 ![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
 
+![Wakatime Coding Activity](https://wakatime.com/share/@kabirdeula/45976fc1-e50a-4de0-8213-8ced388cef6c.svg)
