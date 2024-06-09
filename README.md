@@ -38,6 +38,6 @@
 
 ![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=css,scss,c,cmake,html,python,swift,shell,kotlin,objective-c&langs_count=10&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=css,scss,c,cmake,html,python,swift,shell,kotlin,objective-c,php,blade&langs_count=10&layout=compact) 
 
 ![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
