@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Kabir Deula
 
-## I'm a Bachelor student at [NCCS](//nccs.edu.np), majoring in BCA
-
 ## View Count
 
 ![Kabir's View Count](https://profile-counter.glitch.me/kabirdeula/count.svg)
