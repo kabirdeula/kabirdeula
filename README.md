@@ -18,24 +18,23 @@
 
 ![Android](https://img.shields.io/badge/Android-26AB40?style=for-the-badge&logo=android&logoColor=000&labelColor=3DDC84)
 ![Flutter](https://img.shields.io/badge/Flutter-02099B?style=for-the-badge&logo=flutter&logoColor=000&labelColor=02569B)
-![Git](https://img.shields.io/badge/Git-F0AF32?style=for-the-badge&logo=git&logoColor=000&labelColor=F05032)
-![Laravel](https://img.shields.io/badge/Laravel-FF9D20?style=for-the-badge&logo=laravel&logoColor=000&labelColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-434AA1?style=for-the-badge&logo=mysql&logoColor=000&labelColor=4479A1)
-![PHP](https://img.shields.io/badge/PHP-779AB5?style=for-the-badge&logo=php&logoColor=000&labelColor=777BB4)
-![VisualStudioCode](https://img.shields.io/badge/VSCode-00AB86?style=for-the-badge&logo=visualstudiocode&logoColor=000&labelColor=007ACC)
 
 ---
 
-<p align="right">
-    <a href="https://app.daily.dev/kabirdeula">
-        <img align="right" src="https://github.com/kabirdeula/kabirdeula/blob/main/devcard.svg" width="300" alt="Kabir Deula's Dev Card" />
-    </a>
-</p>
-
-![Kabir's github stats](https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight&count_private=true)
-
-![Kabir GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=css,scss,c,cmake,html,python,swift,shell,kotlin,objective-c,php,blade,cplusplus,csharp,asp.net&langs_count=10&layout=compact) 
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirdeula&theme=tokyonight&hide=css,scss,c,cmake,html,python,swift,shell,kotlin,objective-c,php,blade,cplusplus,csharp,asp.net&langs_count=10&layout=compact">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=kabirdeula&show_icons=true&theme=tokyonight&count_private=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirdeula&theme=tokyonight"/>
+        </td>
+    </tr>
+</table>
 
 ![Github Rewards](https://github-profile-trophy.vercel.app/?username=kabirdeula&theme=tokyonight)
